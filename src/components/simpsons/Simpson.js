@@ -2,10 +2,11 @@
 function Simpson(props) {
     const {simpson} = props;
     return (
-        <div className="simpsons">
+        <div className="simpson">
             <h3>{simpson.name}  {simpson.surname} = {simpson.age}</h3>
-            <p>{simpson.info}</p>
             <img src={simpson.photo} alt={simpson.name}/>
+            <p>{simpson.info}</p>
+
         </div>
     );
 }
