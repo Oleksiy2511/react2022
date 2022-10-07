@@ -10,4 +10,5 @@ function Simpson(props) {
     );
 }
 
+
 export default Simpson;
