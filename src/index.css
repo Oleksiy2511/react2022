@@ -11,8 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-div>div>div>div{
+.simpsons{width: 500px;
   border: solid 3px crimson;
+  border-radius: 10px;
   bottom: 10px;
   margin: 10px;
   padding: 10px;
