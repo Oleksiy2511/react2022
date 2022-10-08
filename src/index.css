@@ -19,6 +19,7 @@ code {
   padding: 10px;
   display: flex;
   flex-direction: row;
+  background: aqua;
 }
 img{
   height: 200px;
